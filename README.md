@@ -1,6 +1,3 @@
-## Hey 👋, I'm Ali Eslah!  
-  
-
 <a href="https://github.com/AliEslah" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,38 +13,6 @@ I'm a backend developer
 I have just started working and I am eager to learn technologies such as blockchain.
 I am also interested in working with artificial intelligence projects in the field of natural language processing.  
   
-### Hi there 👋
-2
-​
-3
-<!--
-4
-**AliEslah/AliEslah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-5
-​
-6
-Here are some ideas to get you started:
-7
-​
-8
-- 🔭 I’m currently working on ...
-9
-- 🌱 I’m currently learning ...
-10
-- 👯 I’m looking to collaborate on ...
-11
-- 🤔 I’m looking for help with ...
-12
-- 💬 Ask me about ...
-13
-- 📫 How to reach me: ...
-14
-- 😄 Pronouns: ...
-15
-- ⚡ Fun fact: ...
-16
--->
-17
 
 <br/>  
 
