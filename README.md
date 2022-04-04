@@ -91,4 +91,3 @@ I am also interested in working with artificial intelligence projects in the fie
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
