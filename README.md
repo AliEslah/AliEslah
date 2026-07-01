@@ -1,93 +1,177 @@
-<a href="https://github.com/AliEslah" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ali-eslah" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-I'm a backend developer
-I have just started working and I am eager to learn technologies such as blockchain.
-I am also interested in working with artificial intelligence projects in the field of natural language processing.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Dialog system  
-  
-
-- 🌱 I’m currently learning NLP  
-  
-
-- ⚡ Fun fact: Pollen land  
-
-
-</td><td valign="top" width="50%">
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
+# Hey, I'm Ali Eslah 👋
 
-</td></tr></table>  
+### AI Backend Engineer building agentic systems, RAG pipelines, and production-ready backend platforms.
 
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AliEslah&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEslah&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AliEslah&&style=flat-square)  
-  
-
-<br/>  
-
+I work at the intersection of **Backend Engineering**, **LLM Applications**, and **Workflow Automation** — designing systems that turn messy data, business processes, and AI models into reliable products.
 
 <br />
 
-----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Eslah-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ali-eslah/)
+[![GitHub](https://img.shields.io/badge/GitHub-AliEslah-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AliEslah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+I build backend systems for AI-first products, especially:
+
+* 🧠 **AI Agents & Multi-Agent Workflows**
+* 📚 **RAG & Knowledge Management Systems**
+* ⚙️ **FastAPI / Django / NestJS Backend Services**
+* 📊 **Spreadsheet & Data Profiling Pipelines**
+* 🔁 **Workflow Orchestration with LangGraph / LangChain / n8n**
+* 🧩 **LLM Integrations, Tool Calling & Structured Outputs**
+* 🐳 **Dockerized, production-minded backend infrastructure**
+
+My focus is not just “calling an LLM API” — I care about **state management, reliability, evaluation, human-in-the-loop flows, observability, clean APIs, and real product architecture**.
+
+---
+
+## 🧠 Current Focus
+
+Right now, I’m focused on building and improving portfolio-grade systems around:
+
+```txt
+AI Backend Engineering
+Agentic Workflows
+RAG Platforms
+Spreadsheet Intelligence
+LLM Orchestration
+Human-in-the-Loop Systems
+Production FastAPI Architectures
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+
+### AI / LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0F172A?style=flat-square)
+
+### Data & Workflow
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-FF6F00?style=flat-square)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square\&logo=minio\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+---
+
+## 🧩 Featured Projects
+
+### 🧠 AI Recruiting Decision Platform
+
+A local-first AI recruiting decision-support platform built with **FastAPI**, **PostgreSQL**, **LangGraph**, **LM Studio**, and **Next.js**.
+
+**Key ideas:**
+
+* Job calibration and weighted hiring criteria
+* Resume parsing and candidate scoring
+* Human-in-the-loop shortlist and final decisions
+* Interview planning, live interview flow, and evaluation
+* Audit logs, communication logs, redaction boundaries
+* Local LLM execution and synthetic evaluation flows
+
+🔗 Repo: [recruitment-agent](https://github.com/AliEslah/recruitment-agent)
+
+---
+
+### 📊 Spreadsheet Profiling / Data Profile
+
+A Python-based project for analyzing messy Excel workbooks and extracting structured data profiles.
+
+**Key ideas:**
+
+* Workbook and sheet-level profiling
+* Region and candidate table detection
+* JSON and parquet output generation
+* Benchmark-ready annotations
+* Foundation for spreadsheet intelligence and data-agent workflows
+
+🔗 Repo: [data-profile](https://github.com/AliEslah/data-profile)
+
+---
+
+## 🏗️ Engineering Style
+
+I like building systems that are:
+
+* **Clear** — clean API boundaries, readable modules, understandable workflows
+* **Reliable** — retries, idempotency, validation, diagnostics, safe failure modes
+* **Product-minded** — not just demos; workflows that match real business needs
+* **AI-native** — structured outputs, tool use, retrieval, evaluation, and human review
+* **Maintainable** — Dockerized, documented, testable, and ready to evolve
+
+---
+
+## 📌 The kind of problems I enjoy
+
+```txt
+“How do we make LLM workflows reliable?”
+“How do we turn messy business data into structured knowledge?”
+“How do we design backend systems for agentic products?”
+“How do we combine automation with human review?”
+“How do we build AI features that are actually useful in production?”
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AliEslah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEslah&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧭 Roadmap
+
+I’m currently improving my open-source portfolio around:
+
+* [ ] Production-ready FastAPI template
+* [ ] RAG knowledge API with document ingestion
+* [ ] Agentic workflow examples with LangGraph
+* [ ] Spreadsheet intelligence and profiling tools
+* [ ] Local-first LLM applications
+* [ ] Better docs, tests, diagrams, and case studies
+
+---
+
+<div align="center">
+
+### Building backend systems for the next generation of AI products.
+
+</div>
