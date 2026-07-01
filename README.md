@@ -148,20 +148,12 @@ I like building systems that are:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AliEslah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Ali Eslah GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=AliEslah&theme=tokyonight&hide_border=true" alt="Ali Eslah GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=AliEslah&theme=tokyonight&hide_border=true" alt="Ali Eslah GitHub streak" />
 
-<br />
-<br />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEslah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" alt="Ali Eslah top languages" />
-
-<br />
 <br />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliEslah&theme=tokyonight" alt="Ali Eslah GitHub profile summary" />
 
-<br />
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliEslah&theme=tokyo-night&hide_border=true&area=true&custom_title=Ali%20Eslah%27s%20Contribution%20Graph" alt="Ali Eslah contribution graph" />
@@ -170,9 +162,10 @@ I like building systems that are:
 
 <p align="center">
   <sub>
-    Note: language stats are based on public repositories and do not fully represent my engineering experience.
+    Backend engineering, agentic systems, and AI workflow building — one commit at a time.
   </sub>
 </p>
+
 
 ---
 
