@@ -1,131 +1,146 @@
 <div align="center">
+  <img src="./assets/github-hero.svg" alt="Ali Eslah - AI Backend Engineer building backend systems, multi-agent workflows, RAG, and LLM platforms" width="100%" />
+</div>
 
-# Ali Eslah
-
-### AI Backend Engineer | FastAPI, LangGraph, RAG, Agents, and Production Backend Systems
-
-I build production-minded AI backend systems: agentic workflows, RAG pipelines, reliable APIs, and workflow automation around real product constraints.
-
-<p>
-  <a href="https://www.linkedin.com/in/ali-eslah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Eslah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Ali Eslah" />
+<p align="center">
+  <a href="https://alieslah.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-alieslah.github.io-0F2746?style=flat-square&labelColor=EAF6FF" alt="Portfolio" />
   </a>
-  <a href="https://github.com/AliEslah">
-    <img src="https://img.shields.io/badge/GitHub-AliEslah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: AliEslah" />
+  <a href="https://www.linkedin.com/in/ali-eslah/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Eslah-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: Ali Eslah" />
+  </a>
+  <a href="mailto:alieslah81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alieslah81%40gmail.com-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email Ali Eslah" />
   </a>
 </p>
 
-</div>
+## AI Backend Engineer
 
----
+I am a backend developer focused on building scalable backend systems and AI-powered platforms. My work combines Python, FastAPI, Django, NestJS microservices, multi-agent workflows, RAG pipelines, LLM orchestration, and production-oriented backend architecture.
+
+I care about the parts that make AI systems useful beyond a demo: reliable workflows, explicit state, clear API contracts, safe human review, retrieval quality, background jobs, diagnostics, and maintainable backend boundaries.
+
+<div align="center">
+  <img src="./assets/tech-pattern.svg" alt="Backend architecture pattern: APIs, orchestration, retrieval, queues, and observability" width="100%" />
+</div>
 
 ## What I Build
 
-- AI backend services with clear APIs, durable state, and human-in-the-loop flows
-- Agentic workflows using LangGraph, LangChain, tool calling, and structured outputs
-- RAG and knowledge systems for document ingestion, retrieval, and answer generation
-- FastAPI, Django, and NestJS backends backed by PostgreSQL and Dockerized services
-- Workflow automation and data pipelines with n8n, RabbitMQ, object storage, and Python data tooling
+| Area | What it means in practice |
+| --- | --- |
+| **AI Backend Platforms** | FastAPI and Django services that expose reliable APIs for AI products, internal tools, and automation systems. |
+| **Multi-Agent Workflows** | LangGraph and LangChain workflows with state, tools, retries, approval gates, and structured outputs. |
+| **RAG & Knowledge Systems** | Ingestion, chunking, retrieval, vector search, citations, and answer generation for knowledge-heavy products. |
+| **Backend APIs & Microservices** | Python and TypeScript services with clean boundaries, PostgreSQL persistence, queues, and Dockerized local stacks. |
+| **Workflow Orchestration** | n8n integrations, custom LLM nodes, background workers, file processing, and operational automations. |
+| **Real-time Backend Systems** | WebSocket and event-driven patterns for live product workflows and status-driven AI pipelines. |
 
-I care about the parts that make AI products useful outside a demo: validation, state management, evaluation, observability, failure modes, security boundaries, and maintainable architecture.
+## Core Expertise
+
+| System layer | Engineering focus |
+| --- | --- |
+| **Architecture** | Service boundaries, workflow state, API design, data contracts, and practical production constraints. |
+| **Reliability** | Retries, idempotency, audit trails, fallback behavior, validation, and visible failure modes. |
+| **AI orchestration** | Agent graphs, tool calling, structured outputs, RAG flows, human-in-the-loop checks, and evaluation loops. |
+| **Data movement** | Spreadsheet/file profiling, object storage, queues, vector stores, PostgreSQL models, and automation pipelines. |
+| **Delivery** | Docker Compose environments, documented setup, testing paths, issue-driven iteration, and clear communication. |
+
+## Tech Stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-0F2746?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0284C7?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0F766E?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-1E3A8A?style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-0F2746?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0369A1?style=flat-square&logo=typescript&logoColor=white)
+
+**AI / LLM**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-0F2746?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-164E63?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0284C7?style=flat-square)
+![LLM Agents](https://img.shields.io/badge/LLM%20Agents-1D4ED8?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0E7490?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-155E75?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-334155?style=flat-square)
+
+**Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A8A?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0F2746?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0284C7?style=flat-square&logo=docker&logoColor=white)
+![MinIO / S3](https://img.shields.io/badge/MinIO%20%2F%20S3-164E63?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-0369A1?style=flat-square)
+
+**Data / Automation**
+
+![Pandas](https://img.shields.io/badge/Pandas-0F2746?style=flat-square&logo=pandas&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-0F766E?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-0284C7?style=flat-square&logo=n8n&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-1D4ED8?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-334155?style=flat-square)
+
+## Featured Repositories
+
+| Project | Value proposition | Stack | Why it matters |
+| --- | --- | --- | --- |
+| [**AI Recruiting Decision Platform**](https://github.com/AliEslah/recruitment-agent) | Local-first recruiting decision support with AI-assisted scoring, interview planning, and human review. | FastAPI, PostgreSQL, SQLAlchemy, Alembic, LangGraph, LM Studio, Docker, Next.js | Shows production-minded AI backend design: RBAC, audit logs, redaction boundaries, workflows, tests, and documented local setup. |
+| [**Personal AI Backend Portfolio**](https://github.com/AliEslah/AliEslah.github.io) | Static portfolio site for presenting backend, RAG, agentic workflow, and automation capabilities. | HTML, CSS, JavaScript, GitHub Pages | Creates a focused external landing page for recruiters, founders, and engineering teams without adding backend complexity. |
+| [**Subtitle Translation Utility**](https://github.com/AliEslah/subtitle-translator) | Small Python automation experiment for batch subtitle translation to Persian. | Python, file processing, translation automation | Useful as a support project for automation and data-processing interests; intentionally not presented as a flagship system. |
+
+## AI Backend Systems
+
+<div align="center">
+  <img src="./assets/ai-backend-workflow.svg" alt="AI backend workflow: User API to orchestrator, agents, tools, vector database, RAG, and backend services" width="100%" />
+</div>
+
+## Architecture Highlights
+
+- **Agent orchestration:** stateful graph workflows, tool execution, structured responses, approval checkpoints, and clear escalation paths.
+- **RAG pipelines:** ingestion, metadata handling, chunking, vector retrieval, context assembly, source-aware responses, and quality checks.
+- **Backend reliability:** typed schemas, background jobs, queue-friendly design, retries, audit logs, and deterministic error handling.
+- **Operational AI:** systems designed for observability, safe data boundaries, real users, and maintainable day-two behavior.
+- **Workflow automation:** n8n custom nodes, spreadsheet/file profiling, API integrations, and repeatable internal operations.
 
 ## Current Focus
 
 ```txt
-AI Backend Engineering
-Agentic Workflow Design
-RAG APIs and Knowledge Pipelines
-Production FastAPI Architecture
-Local-first LLM Systems
-Human-in-the-Loop AI Products
-Backend Reliability and Evaluation
+Agentic AI platforms
+Multi-agent data analysis
+RAG and knowledge workflows
+Backend workflow orchestration
+Reliable AI system design
+Production-ready LLM integrations
 ```
 
-## Core Stack
+## Currently Building / Selected Work Themes
+
+Some work is private or client-facing, so I describe it by system type rather than exposing company names, private URLs, screenshots, or internal data.
+
+| Theme | Public-safe description |
+| --- | --- |
+| **Agentic spreadsheet profiling** | Pipelines that inspect spreadsheet structure, infer data quality issues, and prepare reliable context for downstream analysis. |
+| **Multi-agent data analysis** | Coordinated agents for analysis planning, tool execution, result review, and user-facing summaries. |
+| **RAG & knowledge management** | Retrieval workflows for indexed knowledge bases, citations, and operational question answering. |
+| **n8n LLM integrations** | Custom workflow nodes and API automations for LLM-assisted operations. |
+| **AI workflow infrastructure** | Backend services, queues, object storage, vector stores, and diagnostics around AI workloads. |
+
+## GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliEslah&show_icons=true&hide_border=true&title_color=0F2746&text_color=334155&icon_color=0284C7&bg_color=F8FAFC" alt="Ali Eslah GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliEslah&layout=compact&hide_border=true&title_color=0F2746&text_color=334155&bg_color=F8FAFC" alt="Ali Eslah top languages" />
+</p>
+
+## Contact
+
+I am open to backend, AI platform, RAG, multi-agent workflow, and automation projects where reliability and product constraints matter.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-0F172A?style=flat-square" alt="Tool Calling" />
-  <img src="https://img.shields.io/badge/Structured%20Output-334155?style=flat-square" alt="Structured Output" />
-  <img src="https://img.shields.io/badge/Local%20LLM-475569?style=flat-square" alt="Local LLM" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square" alt="OpenPyXL" />
-  <img src="https://img.shields.io/badge/PyArrow-FF6F00?style=flat-square" alt="PyArrow" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" alt="pgvector" />
-</p>
-
-## Featured Project
-
-### AI Recruiting Decision Platform
-
-Local-first AI recruiting decision support built with FastAPI, PostgreSQL, LangGraph, LM Studio, and Next.js.
-
-Repository: [AliEslah/recruitment-agent](https://github.com/AliEslah/recruitment-agent)
-
-Highlights:
-
-- FastAPI backend with SQLAlchemy, Alembic, RBAC, audit logs, and redaction boundaries
-- LangGraph workflows for job calibration, candidate scoring, interview planning, and evaluation
-- Local LLM execution through LM Studio's OpenAI-compatible API
-- Human review checkpoints for shortlist and final hiring decisions
-- Docker Compose local stack with PostgreSQL, Mailpit, backend service, and frontend
-- Backend and frontend test coverage with documented validation commands
-
-## Engineering Style
-
-- Clear module boundaries and API contracts
-- Typed data models, validation, and explicit failure modes
-- Product workflows designed around human review and operational constraints
-- Local development that is reproducible with Docker, documented commands, and tests
-- AI systems built with evaluation, observability, and safety boundaries in mind
-
-## Portfolio Roadmap
-
-I am sharpening this GitHub profile around AI backend engineering. The next portfolio-grade repositories I plan to build or publish are:
-
-- `rag-knowledge-api`: document ingestion, retrieval, citations, and evaluation for a production-style RAG API
-- `fastapi-production-template`: a reusable backend template with auth, settings, migrations, CI, Docker, and observability
-- `langgraph-agent-workflows`: practical agent workflow patterns for approval gates, retries, state, and tool execution
-- `n8n-llm-agent-nodes`: safe workflow automation examples for LLM-backed operations, if no private/company code is involved
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=AliEslah&theme=tokyonight&hide_border=true" alt="Ali Eslah GitHub streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliEslah&theme=tokyonight" alt="Ali Eslah repositories by language" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliEslah&theme=tokyonight" alt="Ali Eslah GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliEslah&theme=tokyo-night&hide_border=true&area=true&custom_title=Ali%20Eslah%20Contribution%20Graph" alt="Ali Eslah contribution graph" />
-</p>
-
----
-
-<p align="center">
-  <strong>Building backend systems for reliable AI products.</strong>
+  <a href="https://alieslah.github.io/">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/ali-eslah/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/AliEslah">GitHub</a> &nbsp;|&nbsp;
+  <a href="mailto:alieslah81@gmail.com">Email</a>
 </p>

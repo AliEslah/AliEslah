@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 170" role="img" aria-labelledby="title desc">
+  <title id="title">Backend technology pattern</title>
+  <desc id="desc">A minimal light-blue backend pattern showing APIs, orchestration, retrieval, queues, and observability.</desc>
+  <defs>
+    <linearGradient id="pattern-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="55%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#e0f2fe"/>
+    </linearGradient>
+    <style>
+      .label { font: 800 14px "Segoe UI", Arial, sans-serif; fill: #0f2746; letter-spacing: 0; }
+      .copy { font: 600 11px "Segoe UI", Arial, sans-serif; fill: #0369a1; letter-spacing: 0; }
+      .card { fill: #ffffff; stroke: #bfdbfe; stroke-width: 1.2; }
+      .line { fill: none; stroke: #7dd3fc; stroke-width: 2; stroke-dasharray: 6 8; animation: drift 9s linear infinite; }
+      .dot { fill: #0284c7; animation: pulse 3.2s ease-in-out infinite; }
+      @keyframes drift { to { stroke-dashoffset: -120; } }
+      @keyframes pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1164" height="154" rx="8" fill="url(#pattern-bg)" stroke="#dbeafe"/>
+  <path class="line" d="M103 85 C206 42, 298 129, 402 83 S604 42, 712 84 914 131, 1086 76"/>
+  <g transform="translate(62 42)">
+    <rect class="card" x="0" y="0" width="160" height="86" rx="8"/>
+    <text class="label" x="26" y="36">API Contracts</text>
+    <text class="copy" x="26" y="58">typed request/response</text>
+    <circle class="dot" cx="131" cy="28" r="5"/>
+  </g>
+  <g transform="translate(278 42)">
+    <rect class="card" x="0" y="0" width="160" height="86" rx="8"/>
+    <text class="label" x="26" y="36">Orchestration</text>
+    <text class="copy" x="26" y="58">agents, state, tools</text>
+    <circle class="dot" cx="131" cy="28" r="5"/>
+  </g>
+  <g transform="translate(494 42)">
+    <rect class="card" x="0" y="0" width="160" height="86" rx="8"/>
+    <text class="label" x="26" y="36">Retrieval</text>
+    <text class="copy" x="26" y="58">RAG, vector search</text>
+    <circle class="dot" cx="131" cy="28" r="5"/>
+  </g>
+  <g transform="translate(710 42)">
+    <rect class="card" x="0" y="0" width="160" height="86" rx="8"/>
+    <text class="label" x="26" y="36">Queues</text>
+    <text class="copy" x="26" y="58">workers, retries</text>
+    <circle class="dot" cx="131" cy="28" r="5"/>
+  </g>
+  <g transform="translate(926 42)">
+    <rect class="card" x="0" y="0" width="160" height="86" rx="8"/>
+    <text class="label" x="26" y="36">Observability</text>
+    <text class="copy" x="26" y="58">logs, diagnostics</text>
+    <circle class="dot" cx="131" cy="28" r="5"/>
+  </g>
+</svg>
