@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 420" role="img" aria-labelledby="title desc">
+  <title id="title">AI Backend Systems Workflow</title>
+  <desc id="desc">Architecture diagram showing User/API to Orchestrator to Agents to Tools to Vector DB/RAG to Backend Services.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#eaf6ff"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0284c7"/>
+    </marker>
+    <filter id="shadow" x="-15%" y="-25%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#0f2746" flood-opacity=".12"/>
+    </filter>
+    <style>
+      .heading { font: 800 28px "Segoe UI", Arial, sans-serif; fill: #0f2746; letter-spacing: 0; }
+      .sub { font: 500 15px "Segoe UI", Arial, sans-serif; fill: #475569; letter-spacing: 0; }
+      .box-title { font: 800 17px "Segoe UI", Arial, sans-serif; fill: #0f2746; letter-spacing: 0; }
+      .box-copy { font: 600 12px "Segoe UI", Arial, sans-serif; fill: #0369a1; letter-spacing: 0; }
+      .box { fill: #ffffff; stroke: #bfdbfe; stroke-width: 1.4; filter: url(#shadow); }
+      .line { fill: none; stroke: #0284c7; stroke-width: 2.3; stroke-linecap: round; marker-end: url(#arrow); }
+      .token { fill: #38bdf8; opacity: .9; animation: move 6s ease-in-out infinite; }
+      .token2 { fill: #0ea5e9; opacity: .75; animation: move 7s ease-in-out infinite reverse; }
+      @keyframes move { 0%, 100% { transform: translateX(0); opacity: .45; } 50% { transform: translateX(22px); opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1164" height="404" rx="8" fill="url(#bg)" stroke="#dbeafe"/>
+  <text class="heading" x="48" y="62">AI Backend Systems</text>
+  <text class="sub" x="48" y="90">From product API requests to stateful orchestration, retrieval, tools, and reliable backend services.</text>
+
+  <g transform="translate(46 150)">
+    <path class="line" d="M150 70 L214 70"/>
+    <path class="line" d="M326 70 L390 70"/>
+    <path class="line" d="M502 70 L566 70"/>
+    <path class="line" d="M678 70 L742 70"/>
+    <path class="line" d="M854 70 L918 70"/>
+
+    <circle class="token" cx="180" cy="70" r="5"/>
+    <circle class="token2" cx="356" cy="70" r="4"/>
+    <circle class="token" cx="532" cy="70" r="5"/>
+    <circle class="token2" cx="708" cy="70" r="4"/>
+    <circle class="token" cx="884" cy="70" r="5"/>
+
+    <g>
+      <rect class="box" x="0" y="0" width="150" height="140" rx="8"/>
+      <circle cx="42" cy="42" r="16" fill="#e0f2fe" stroke="#7dd3fc"/>
+      <path d="M35 42 h14 M42 35 v14" stroke="#0369a1" stroke-width="2" stroke-linecap="round"/>
+      <text class="box-title" x="28" y="82">User/API</text>
+      <text class="box-copy" x="24" y="108">Requests</text>
+      <text class="box-copy" x="24" y="126">contracts</text>
+    </g>
+
+    <g transform="translate(214 0)">
+      <rect class="box" x="0" y="0" width="150" height="140" rx="8"/>
+      <circle cx="42" cy="42" r="16" fill="#e0f2fe" stroke="#7dd3fc"/>
+      <path d="M34 42 c12 -14 24 14 36 0" fill="none" stroke="#0369a1" stroke-width="2" stroke-linecap="round"/>
+      <text class="box-title" x="20" y="82">Orchestrator</text>
+      <text class="box-copy" x="24" y="108">State graph</text>
+      <text class="box-copy" x="24" y="126">routing</text>
+    </g>
+
+    <g transform="translate(390 0)">
+      <rect class="box" x="0" y="0" width="150" height="140" rx="8"/>
+      <circle cx="42" cy="42" r="16" fill="#e0f2fe" stroke="#7dd3fc"/>
+      <circle cx="36" cy="40" r="4" fill="#0369a1"/>
+      <circle cx="49" cy="36" r="4" fill="#0284c7"/>
+      <circle cx="50" cy="50" r="4" fill="#38bdf8"/>
+      <path d="M39 40 L47 37 M49 40 L50 47" stroke="#0369a1" stroke-width="1.5"/>
+      <text class="box-title" x="45" y="82">Agents</text>
+      <text class="box-copy" x="24" y="108">Plans</text>
+      <text class="box-copy" x="24" y="126">tool calls</text>
+    </g>
+
+    <g transform="translate(566 0)">
+      <rect class="box" x="0" y="0" width="150" height="140" rx="8"/>
+      <circle cx="42" cy="42" r="16" fill="#e0f2fe" stroke="#7dd3fc"/>
+      <path d="M35 48 l7 -15 7 15 M38 43 h8" fill="none" stroke="#0369a1" stroke-width="2" stroke-linecap="round"/>
+      <text class="box-title" x="50" y="82">Tools</text>
+      <text class="box-copy" x="24" y="108">APIs</text>
+      <text class="box-copy" x="24" y="126">workers</text>
+    </g>
+
+    <g transform="translate(742 0)">
+      <rect class="box" x="0" y="0" width="150" height="140" rx="8"/>
+      <circle cx="42" cy="42" r="16" fill="#e0f2fe" stroke="#7dd3fc"/>
+      <ellipse cx="42" cy="36" rx="14" ry="5" fill="none" stroke="#0369a1" stroke-width="2"/>
+      <path d="M28 36 v15 c0 3 6 5 14 5 s14 -2 14 -5 V36" fill="none" stroke="#0369a1" stroke-width="2"/>
+      <text class="box-title" x="20" y="82">Vector DB/RAG</text>
+      <text class="box-copy" x="24" y="108">Retrieval</text>
+      <text class="box-copy" x="24" y="126">citations</text>
+    </g>
+
+    <g transform="translate(918 0)">
+      <rect class="box" x="0" y="0" width="166" height="140" rx="8"/>
+      <circle cx="42" cy="42" r="16" fill="#e0f2fe" stroke="#7dd3fc"/>
+      <rect x="32" y="33" width="20" height="18" rx="3" fill="none" stroke="#0369a1" stroke-width="2"/>
+      <path d="M36 39 h12 M36 45 h8" stroke="#0369a1" stroke-width="2" stroke-linecap="round"/>
+      <text class="box-title" x="22" y="82">Backend Services</text>
+      <text class="box-copy" x="24" y="108">Postgres</text>
+      <text class="box-copy" x="24" y="126">queues, storage</text>
+    </g>
+  </g>
+
+  <g transform="translate(48 340)">
+    <rect x="0" y="0" width="1084" height="42" rx="8" fill="#ffffff" stroke="#dbeafe"/>
+    <text x="24" y="27" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#0f2746">Design priority:</text>
+    <text x="134" y="27" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">explicit contracts, durable state, observable failures, safe human review, and reproducible local development.</text>
+  </g>
+</svg>

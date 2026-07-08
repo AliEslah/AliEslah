@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Eslah - AI Backend Engineer</title>
+  <desc id="desc">A light professional GitHub profile hero with backend workflow nodes, APIs, databases, vector search, and agent orchestration.</desc>
+  <defs>
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="52%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#e0f2fe"/>
+    </linearGradient>
+    <linearGradient id="line-blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".25"/>
+      <stop offset="50%" stop-color="#0284c7" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#0f2746" stop-opacity=".3"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.45 0 0 0 0 0.75 0 0 0 .38 0" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 800 64px "Segoe UI", Arial, sans-serif; fill: #0f2746; letter-spacing: 0; }
+      .role { font: 700 27px "Segoe UI", Arial, sans-serif; fill: #075985; letter-spacing: 0; }
+      .line { font: 500 21px "Segoe UI", Arial, sans-serif; fill: #334155; letter-spacing: 0; }
+      .label { font: 700 13px "Segoe UI", Arial, sans-serif; fill: #0f2746; letter-spacing: 0; }
+      .small { font: 600 11px "Segoe UI", Arial, sans-serif; fill: #0369a1; letter-spacing: 0; }
+      .node { fill: #ffffff; stroke: #bae6fd; stroke-width: 1.4; }
+      .node-core { fill: #0f2746; stroke: #38bdf8; stroke-width: 2; }
+      .wire { fill: none; stroke: url(#line-blue); stroke-width: 2; stroke-linecap: round; stroke-dasharray: 9 10; animation: dash 10s linear infinite; }
+      .pulse { animation: pulse 3s ease-in-out infinite; transform-origin: center; }
+      .pulse2 { animation: pulse 3.8s ease-in-out infinite; transform-origin: center; }
+      .float { animation: float 7s ease-in-out infinite; }
+      .float2 { animation: float 8s ease-in-out infinite reverse; }
+      @keyframes dash { to { stroke-dashoffset: -190; } }
+      @keyframes pulse { 0%, 100% { opacity: .72; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="344" rx="8" fill="url(#hero-bg)" stroke="#dbeafe"/>
+  <path d="M26 303 C195 232, 277 335, 444 258 S769 214, 940 273 1096 300, 1174 244" fill="none" stroke="#c7e6ff" stroke-width="2"/>
+  <path d="M30 71 C153 126, 269 56, 420 99 S724 160, 872 101 1056 75, 1170 119" fill="none" stroke="#dbeafe" stroke-width="2"/>
+
+  <g opacity=".72">
+    <circle cx="80" cy="62" r="2.5" fill="#38bdf8"/>
+    <circle cx="132" cy="122" r="2" fill="#0ea5e9"/>
+    <circle cx="231" cy="64" r="2.5" fill="#38bdf8"/>
+    <circle cx="1020" cy="74" r="2.5" fill="#0284c7"/>
+    <circle cx="1112" cy="151" r="2" fill="#38bdf8"/>
+    <circle cx="1086" cy="291" r="2.5" fill="#0ea5e9"/>
+  </g>
+
+  <g transform="translate(68 82)">
+    <text class="title" x="0" y="58">Ali Eslah</text>
+    <text class="role" x="2" y="104">AI Backend Engineer</text>
+    <text class="line" x="2" y="142">Backend Systems &#183; Multi-Agent Workflows &#183; RAG &#183; LLM Platforms</text>
+    <g transform="translate(2 181)">
+      <rect x="0" y="0" width="126" height="34" rx="8" fill="#ffffff" stroke="#bae6fd"/>
+      <text class="small" x="18" y="22">Python APIs</text>
+      <rect x="142" y="0" width="116" height="34" rx="8" fill="#ffffff" stroke="#bae6fd"/>
+      <text class="small" x="160" y="22">LangGraph</text>
+      <rect x="274" y="0" width="110" height="34" rx="8" fill="#ffffff" stroke="#bae6fd"/>
+      <text class="small" x="296" y="22">FastAPI</text>
+      <rect x="400" y="0" width="132" height="34" rx="8" fill="#ffffff" stroke="#bae6fd"/>
+      <text class="small" x="421" y="22">Vector Search</text>
+    </g>
+  </g>
+
+  <g transform="translate(690 58)" filter="url(#soft-glow)">
+    <path class="wire" d="M92 176 C146 120, 214 116, 268 74"/>
+    <path class="wire" d="M92 176 C156 206, 217 210, 282 250"/>
+    <path class="wire" d="M92 176 C158 171, 205 167, 275 166"/>
+    <path class="wire" d="M268 74 C337 96, 368 135, 428 167"/>
+    <path class="wire" d="M282 250 C347 230, 385 205, 428 167"/>
+
+    <g class="float">
+      <rect class="node-core" x="34" y="134" width="116" height="84" rx="8"/>
+      <text x="62" y="169" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" fill="#ffffff">API</text>
+      <text x="54" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#bae6fd">orchestrator</text>
+      <circle class="pulse" cx="126" cy="154" r="5" fill="#38bdf8"/>
+    </g>
+
+    <g class="float2">
+      <rect class="node" x="222" y="34" width="98" height="64" rx="8"/>
+      <text class="label" x="249" y="64">Agents</text>
+      <text class="small" x="245" y="82">tools + state</text>
+      <circle class="pulse2" cx="303" cy="49" r="4" fill="#38bdf8"/>
+    </g>
+
+    <g>
+      <rect class="node" x="246" y="134" width="104" height="64" rx="8"/>
+      <text class="label" x="276" y="164">RAG</text>
+      <text class="small" x="268" y="182">retrieval</text>
+      <circle class="pulse" cx="326" cy="149" r="4" fill="#0284c7"/>
+    </g>
+
+    <g class="float">
+      <rect class="node" x="236" y="224" width="118" height="64" rx="8"/>
+      <text class="label" x="272" y="254">Data</text>
+      <text class="small" x="258" y="272">Postgres / S3</text>
+      <circle class="pulse2" cx="333" cy="239" r="4" fill="#0ea5e9"/>
+    </g>
+
+    <g class="float2">
+      <rect class="node" x="390" y="132" width="114" height="74" rx="8"/>
+      <text class="label" x="425" y="164">Queues</text>
+      <text class="small" x="415" y="184">workers + logs</text>
+      <circle class="pulse" cx="480" cy="148" r="4" fill="#38bdf8"/>
+    </g>
+  </g>
+</svg>
